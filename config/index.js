@@ -23,7 +23,7 @@ module.exports = {
         },
         port: 8000,
         assetsSubDirectory: 'static',
-        assetsPublicPath: '/',
+        assetsPublicPath: './',
         context: [ //代理路径
             '/shopping',
             '/ugc',
